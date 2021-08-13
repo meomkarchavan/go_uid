@@ -1,3 +1,3 @@
-module github.com/meomkarchavan/golang_uid
+module github.com/meomkarchavan/go_uid
 
 go 1.15
